@@ -1,0 +1,22 @@
+* {font-family: "Montserrat", sans-serif;}
+
+div.header{
+	text-align: center;
+	background-color: peachpuff;
+	padding: 5px;
+	margin-top: 20px;
+	color: blue;
+}
+body {
+	background-color: lightyellow;
+	margin: auto;
+	max-width: 800px;
+}
+h2 {
+	background-color: peachpuff;
+	padding: 5px;
+	color: blue;
+}
+p{
+	margin: -1px;
+}
