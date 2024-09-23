@@ -1,8 +1,7 @@
 * {
 	font-family: "Montserrat", sans-serif;
-
+	box-sizing: border-box;
 }
-
 div.header{
 	text-align: center;
 	background-color: peachpuff;
@@ -12,7 +11,28 @@ div.header{
 }
 body {
 	background-color: lightyellow;
-	margin: 15px;
+	margin: 5px; 
+	max-width: 800px;
+}
+h2 {
+	background-color: peachpuff;
+	padding: 5px;
+	color: blue;
+}
+p{
+	margin: -1px;
+}
+@media(min-width: 681px)
+div.header{
+	text-align: center;
+	background-color: peachpuff;
+	padding: 5px;
+	margin-top: 20px;
+	color: blue;
+}
+body {
+	background-color: lightyellow;
+	margin: auto; 
 	max-width: 800px;
 }
 h2 {
