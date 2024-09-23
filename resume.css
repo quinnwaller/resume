@@ -1,6 +1,5 @@
 * {
 	font-family: "Montserrat", sans-serif;
-	box-sizing: border-box;
 }
 div.header{
 	text-align: center;
@@ -22,7 +21,7 @@ h2 {
 p{
 	margin: -1px;
 }
-@media(min-width: 500px)
+@media(min-width: 681px)
 div.header{
 	text-align: center;
 	background-color: peachpuff;
