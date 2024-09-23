@@ -22,7 +22,7 @@ h2 {
 p{
 	margin: -1px;
 }
-@media(min-width: 681px)
+@media(min-width: 500px)
 div.header{
 	text-align: center;
 	background-color: peachpuff;
