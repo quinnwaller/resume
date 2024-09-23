@@ -1,6 +1,6 @@
 * {
 	font-family: "Montserrat", sans-serif;
-	padding: 10px
+
 }
 
 div.header{
@@ -12,7 +12,7 @@ div.header{
 }
 body {
 	background-color: lightyellow;
-	margin: auto;
+	margin: 5px;
 	max-width: 800px;
 }
 h2 {
