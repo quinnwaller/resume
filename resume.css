@@ -1,4 +1,7 @@
-* {font-family: "Montserrat", sans-serif;}
+* {
+	font-family: "Montserrat", sans-serif;
+	padding: 5px
+}
 
 div.header{
 	text-align: center;
