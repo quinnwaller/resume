@@ -26,7 +26,7 @@ p{
 	margin: -1px;
 }
 }
-@media(min-width: 681px){
+@media(min-width: 681px)
 div.header{
 	text-align: center;
 	background-color: peachpuff;
@@ -37,7 +37,7 @@ div.header{
 body {
 	background-color: lightyellow;
 	margin: auto; 
-	max-width: 700px;
+	max-width: 800px;
 }
 h2 {
 	background-color: peachpuff;
@@ -46,5 +46,4 @@ h2 {
 }
 p{
 	margin: -1px;
-}
 }
