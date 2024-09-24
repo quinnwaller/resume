@@ -1,6 +1,8 @@
 * {
 	font-family: "Montserrat", sans-serif;
 }
+
+@media(max-width: 500px)
 div.header{
 	text-align: center;
 	background-color: peachpuff;
@@ -10,7 +12,10 @@ div.header{
 }
 body {
 	background-color: lightyellow;
-	margin: 100px; 
+	margin-left: 20px; 
+	margin-right: 20px;
+	margin-top: 20px;
+	margin-bottom: 20px;
 	max-width: 800px;
 }
 h2 {
